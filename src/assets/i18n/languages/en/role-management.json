@@ -1,0 +1,19 @@
+{
+  "roleNm": "Role Name",
+  "roleNmPlaceHolder": "Enter role name",
+  "status": "Status",
+  "receive_notice": "Notices Receiver",
+  "select_role": "Select the roles ...",
+  "company": "Company",
+  "type": "Type",
+  "roleTableName": "Role List",
+  "addRoleButton": "Add Role",
+  "roleCd": "Role Code",
+  "roleCdPlaceHolder": "Enter role code",
+  "roleDesc": "Description",
+  "descPlaceHolder": "Enter description",
+  "rolePopupHeader": "Role Access",
+  "menuTreeHeader": "Menu",
+  "buttonTableName": "Access List",
+  "saveRoleAccessButton": "Save"
+}

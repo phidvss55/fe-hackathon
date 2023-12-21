@@ -1,0 +1,19 @@
+{
+  "roleNm": "Tên Quyền",
+  "roleNmSrchPlaceHolder": "Nhập tên quyền",
+  "status": "Trạng thái",
+  "company": "Công ty",
+  "type": "Loại",
+  "receive_notice": "Người nhận thông báo",
+  "select_role": "Chọn vai trò nhận thông báo ...",
+  "roleTableName": "Danh sách quyền",
+  "addRoleButton": "Thêm quyền",
+  "roleCd": "Mã quyền",
+  "roleCdPlaceHolder": "Nhập mã quyền",
+  "roleDesc": "Mô tả",
+  "descPlaceHolder": "Nhập mô tả",
+  "rolePopupHeader": "Quyền truy cập",
+  "menuTreeHeader": "Danh sách UI",
+  "buttonTableName": "Danh sách truy cập",
+  "saveRoleAccessButton": "Lưu"
+}
